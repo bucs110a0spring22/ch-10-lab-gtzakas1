@@ -8,20 +8,20 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ A game in which there is a turtle hero fending off three enemies moving randomly.
+ 
 #### Unique Feature
- < Describe the unique feature you added >
+ there is a 1 in 3 chanc ethat when you succesfully attack an enemy you are rewarded a health point.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 1
 
-Grace days remaining: < # >/5
+Grace days remaining: 0/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
-
+ https://www.codespeedy.com/select-random-element-from-set-in-python/#:~:text=Random%20number%20operations%20in%20set%20in%20Python%20random.choice%28%29,single%20element%20whereas%20random.choices%28%29%20is%20used%20to%20select
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ i spent 3 hours trying to get the background music to be super smash bros melee but couldnt 

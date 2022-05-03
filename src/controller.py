@@ -1,9 +1,12 @@
 import sys
-import pygame
+import pygame 
 import random
 from src import hero
 from src import enemy
 
+from pygame import*
+
+import mixer
 
 class Controller:
     def __init__(self, width=640, height=480):

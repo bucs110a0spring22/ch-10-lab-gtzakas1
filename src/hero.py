@@ -38,4 +38,8 @@ class Hero(pygame.sprite.Sprite):
             return False
         else:
             print("successful attack")
-        return True
+            set = [1,2,3]
+            if (1 == random.choice(set)):
+              self.health +=1
+              print("you gained extra health. Health has now increased by one point. Health now", self.health)
+            return True
